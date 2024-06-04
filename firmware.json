@@ -36,7 +36,7 @@
     "imageType" : "mcuboot"
   },  
   {
-    "fileName" : "LP_EM_CC2340R5/basic_ble_oad_onchip_LP_EM_CC2340R5_freertos_ticlang_v1.bin",
+    "fileName" : "LP_EM_CC2340R5/abc.bin",
     "version" : "6.41.00.09_2.0.0+0",
     "hwType" : "LP_EM_CC2340R5",
     "imageType" : "mcuboot"
