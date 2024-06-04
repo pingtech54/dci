@@ -34,5 +34,12 @@
     "version" : "6.41.00.09_2.0.0+0",
     "hwType" : "LP_EM_CC2340R5_PG1",
     "imageType" : "mcuboot"
+  },  
+  {
+    "fileName" : "LP_EM_CC2340R5_PG1/abc.bin",
+    "version" : "6.41.00.09_2.0.0+0",
+    "hwType" : "Himolla",
+    "imageType" : "mcuboot"
   }  
+
 ]
