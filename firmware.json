@@ -36,9 +36,9 @@
     "imageType" : "mcuboot"
   },  
   {
-    "fileName" : "LP_EM_CC2340R5_PG1/abc.bin",
+    "fileName" : "LP_EM_CC2340R5/basic_ble_oad_onchip_LP_EM_CC2340R5_freertos_ticlang_v1.bin",
     "version" : "6.41.00.09_2.0.0+0",
-    "hwType" : "Himolla",
+    "hwType" : "LP_EM_CC2340R5",
     "imageType" : "mcuboot"
   }  
 
