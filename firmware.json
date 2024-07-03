@@ -2,19 +2,19 @@
   {
     "fileName" : "LP_EM_CC2340R5/basic_ble_oad_offchip_LP_EM_CC2340R5_freertos_ticlang-v2.0.0.bin",
     "version" : "7.10.00.23_2.0.0+0",
-    "hwType" : "LP_EM_CC2340R5",
+    "hwType" : "",
     "imageType" : "mcuboot"
   },
   {
     "fileName" : "LP_EM_CC2340R5/abc.bin",
     "version" : "6.41.00.09_2.0.0+0",
-    "hwType" : "LP_EM_CC2340R5",
+    "hwType" : "",
     "imageType" : "mcuboot"
   },  
   {
     "fileName" : "LP_EM_CC2340R5/himolla.bin",
     "version" : "7.10.00.23_2.0.0+0",
-    "hwType" : "LP_EM_CC2340R5",
+    "hwType" : "",
     "imageType" : "mcuboot"
   }
   
