@@ -1,10 +1,12 @@
 [
+  /*
   {
     "fileName" : "basic_ble_oad_offchip_LP_EM_CC2340R5_freertos_ticlang-v2.0.0.bin",
     "version" : "7.10.00.23_2.0.0+0",
     "hwType" : "",
     "imageType" : "mcuboot"
   },
+  */
   {
     "fileName" : "abc.bin",
     "version" : "6.41.00.09_2.0.0+0",
