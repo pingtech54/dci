@@ -28,7 +28,12 @@
     "version" : "7.10.00.23_2.0.0+0",
     "hwType" : "",
     "imageType" : "mcuboot"
+  },
+  {
+    "fileName" : "25816_2CAB33E68520.bin",
+    "version" : "7.10.00.23_2.0.0+0",
+    "hwType" : "",
+    "imageType" : "mcuboot"
   }
-
   
 ]
