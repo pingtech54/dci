@@ -1,6 +1,6 @@
 [
   {
-    "fileName" : "27375_2CAB33E68C55.bin",
+    "fileName" : "27375_2CAB33E682B0.bin",
     "version" : "6.41.00.09_2.0.0+0",
     "hwType" : "",
     "imageType" : "mcuboot"
@@ -12,7 +12,7 @@
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "27375_2CAB33E6851C.bin",
+    "fileName" : "28375_2CAB33E6851C.bin",
     "version" : "7.10.00.23_2.0.0+0",
     "hwType" : "",
     "imageType" : "mcuboot"
@@ -22,18 +22,7 @@
     "version" : "7.10.00.23_2.0.0+0",
     "hwType" : "",
     "imageType" : "mcuboot"
-  },
-  {
-    "fileName" : "25814_2CAB33E682B0.bin",
-    "version" : "7.10.00.23_2.0.0+0",
-    "hwType" : "",
-    "imageType" : "mcuboot"
-  },
-  {
-    "fileName" : "25816_2CAB33E68520.bin",
-    "version" : "7.10.00.23_2.0.0+0",
-    "hwType" : "",
-    "imageType" : "mcuboot"
   }
+  
   
 ]
