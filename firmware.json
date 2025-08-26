@@ -1,22 +1,10 @@
 [
   {
-    "fileName" : "27375_2CAB33E68C0C.bin",
+    "fileName" : "2737500_2CAB33E68C0C.bin",
     "version" : "6.41.00.09_2.0.0+0",
     "hwType" : "",
     "imageType" : "mcuboot"
   },  
-  {
-    "fileName" : "25835_2CAB33E6851C.bin",
-    "version" : "7.10.00.23_2.0.0+0",
-    "hwType" : "",
-    "imageType" : "mcuboot"
-  },
-  {
-    "fileName" : "25835_2CAB33E675AD.bin",
-    "version" : "7.10.00.23_2.0.0+0",
-    "hwType" : "",
-    "imageType" : "mcuboot"
-  },
   {
     "fileName" : "test.bin",
     "version" : "7.10.00.23_2.0.0+0",
